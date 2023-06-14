@@ -1,0 +1,2025 @@
+[
+ {
+  "hos_name": "(의) 내경의료재단 울산광역시제일병원",
+  "hos_add": "울산광역시 남구 남산로354번길 26",
+  "hos_latitude": 35.5487,
+  "hos_longitude": 129.3076,
+  "hos_number": "052-220-3334"
+ },
+ {
+  "hos_name": "(의)경빈의료재단 김해센텀병원",
+  "hos_add": "경상남도 김해시 구지로 56",
+  "hos_latitude": 35.2399,
+  "hos_longitude": 128.8709,
+  "hos_number": "055-330-9100"
+ },
+ {
+  "hos_name": "(의)서일의료재단기장병원",
+  "hos_add": "부산광역시 기장군 기장읍 대청로72번길 6",
+  "hos_latitude": 35.2365,
+  "hos_longitude": 129.2184,
+  "hos_number": "051-723-0171"
+ },
+ {
+  "hos_name": "(의)인석의료재단 보람병원",
+  "hos_add": "울산광역시 남구 삼산동 897-14번지",
+  "hos_latitude": 35.5467,
+  "hos_longitude": 129.3918,
+  "hos_number": "052-278-0024"
+ },
+ {
+  "hos_name": "(재)한·호기독교선교회 맥켄지일신기독병원",
+  "hos_add": "부산광역시 북구 금곡대로 133",
+  "hos_latitude": 35.2214,
+  "hos_longitude": 129.0099,
+  "hos_number": "051-363-2331"
+ },
+ {
+  "hos_name": "(재)한·호기독교선교회 정관일신기독병원",
+  "hos_add": "부산광역시 기장군 정관면 정관6로 31",
+  "hos_latitude": 35.3228,
+  "hos_longitude": 129.1772,
+  "hos_number": "051-780-0600"
+ },
+ {
+  "hos_name": "365병원",
+  "hos_add": "경상남도 창원시 마산회원구 3.15대로 686",
+  "hos_latitude": 35.292,
+  "hos_longitude": 128.5499,
+  "hos_number": "055-248-0365"
+ },
+ {
+  "hos_name": "365하하병원",
+  "hos_add": "부산광역시 강서구 명지오션시티4로 88",
+  "hos_latitude": 35.1036,
+  "hos_longitude": 128.9082,
+  "hos_number": "051-710-8899"
+ },
+ {
+  "hos_name": "CNA서울아동병원",
+  "hos_add": "경상남도 창원시 성산구 상남동27-1",
+  "hos_latitude": 35.2337,
+  "hos_longitude": 128.749,
+  "hos_number": "055-262-8511"
+ },
+ {
+  "hos_name": "SCH서울아동병원",
+  "hos_add": "경상남도 통영시 중앙로 334-1",
+  "hos_latitude": 34.8522,
+  "hos_longitude": 128.4412,
+  "hos_number": "055-647-0778"
+ },
+ {
+  "hos_name": "the큰병원",
+  "hos_add": "경상남도 창원시 의창구 우곡로217번길 10 더큰병원",
+  "hos_latitude": 35.2339,
+  "hos_longitude": 128.8707,
+  "hos_number": "055-270-0800"
+ },
+ {
+  "hos_name": "감청수병원",
+  "hos_add": "경상남도 김해시 삼정동 617-12",
+  "hos_latitude": 35.2283,
+  "hos_longitude": 128.8967,
+  "hos_number": "055-336-7582"
+ },
+ {
+  "hos_name": "강동병원",
+  "hos_add": "부산광역시 사하구 다대로 145",
+  "hos_latitude": 35.1391,
+  "hos_longitude": 129.0387,
+  "hos_number": "051-209-1100"
+ },
+ {
+  "hos_name": "강병원",
+  "hos_add": "경상남도 고성군 고성읍 중앙로 49",
+  "hos_latitude": 34.9742,
+  "hos_longitude": 128.3253,
+  "hos_number": "055-673-0101"
+ },
+ {
+  "hos_name": "개나리소아청소년과병원",
+  "hos_add": "부산광역시 강서구 명지동 1642",
+  "hos_latitude": 35.0984,
+  "hos_longitude": 128.9232,
+  "hos_number": "051-202-1113"
+ },
+ {
+  "hos_name": "거인병원",
+  "hos_add": "부산광역시 동래구 사직동 여고로 12 거인병원",
+  "hos_latitude": 35.1948,
+  "hos_longitude": 129.0658,
+  "hos_number": "051-996-7000"
+ },
+ {
+  "hos_name": "거제아동병원",
+  "hos_add": "경상남도 거제시 동문천로 52",
+  "hos_latitude": 34.8831,
+  "hos_longitude": 128.6265,
+  "hos_number": "055-632-8225"
+ },
+ {
+  "hos_name": "거제중앙병원",
+  "hos_add": "경상남도 거제시 고현동 808-1",
+  "hos_latitude": 34.8867,
+  "hos_longitude": 128.6227,
+  "hos_number": "055-635-3211"
+ },
+ {
+  "hos_name": "거창적십자병원",
+  "hos_add": "경상남도 거창군 거창읍 상림리 74-1",
+  "hos_latitude": 35.6866,
+  "hos_longitude": 127.9097,
+  "hos_number": "055-944-3251"
+ },
+ {
+  "hos_name": "건강만세365병원",
+  "hos_add": "부산광역시 중구 대청동2가 대청로 105",
+  "hos_latitude": 35.1032,
+  "hos_longitude": 129.0319,
+  "hos_number": "051-711-0365"
+ },
+ {
+  "hos_name": "건강한윌병원",
+  "hos_add": "울산광역시 남구 중앙로 282 건강한윌병원",
+  "hos_latitude": 35.546,
+  "hos_longitude": 129.3108,
+  "hos_number": "052-1833-2922"
+ },
+ {
+  "hos_name": "경희리틀병원",
+  "hos_add": "경상남도 김해시 율하리 1339-3 501 601호",
+  "hos_latitude": 35.1712,
+  "hos_longitude": 128.8137,
+  "hos_number": "055-900-6600"
+ },
+ {
+  "hos_name": "경희병원",
+  "hos_add": "부산광역시 사하구 장림제2동 380-3",
+  "hos_latitude": 35.0754,
+  "hos_longitude": 128.9837,
+  "hos_number": "051-265-7575"
+ },
+ {
+  "hos_name": "공군교육사 기지병원",
+  "hos_add": "경상남도 진주시 금산면 송백로 46",
+  "hos_latitude": 35.204,
+  "hos_longitude": 128.1457,
+  "hos_number": "055-750-2603"
+ },
+ {
+  "hos_name": "광안자모병원",
+  "hos_add": "부산광역시 수영구 수영로 555",
+  "hos_latitude": 35.1555,
+  "hos_longitude": 129.1124,
+  "hos_number": "051-760-0600"
+ },
+ {
+  "hos_name": "괴정어린이병원",
+  "hos_add": "부산광역시 사하구 사하로 188",
+  "hos_latitude": 35.0987,
+  "hos_longitude": 128.9949,
+  "hos_number": "051-760-0600"
+ },
+ {
+  "hos_name": "구트병원",
+  "hos_add": "경상남도 창원시 성산구 중앙동 원이대로 578",
+  "hos_latitude": 35.2286,
+  "hos_longitude": 128.6782,
+  "hos_number": "055-262-9000"
+ },
+ {
+  "hos_name": "국립마산병원",
+  "hos_add": "경상남도 창원시 마산합포구 가포동 가포로 215",
+  "hos_latitude": 35.169,
+  "hos_longitude": 128.5668,
+  "hos_number": "055-246-1141"
+ },
+ {
+  "hos_name": "굿모닝내과병원",
+  "hos_add": "경상남도 창원시 의창구 팔용동 162-3",
+  "hos_latitude": 35.2637,
+  "hos_longitude": 128.6189,
+  "hos_number": "055-265-2800"
+ },
+ {
+  "hos_name": "굿모닝대홍병원",
+  "hos_add": "경상남도 김해시 분성로 180 해산빌딩",
+  "hos_latitude": 35.2298,
+  "hos_longitude": 128.8673,
+  "hos_number": "055-331-0025"
+ },
+ {
+  "hos_name": "굿모닝병원",
+  "hos_add": "울산광역시 남구 삼산로 110",
+  "hos_latitude": 35.5351,
+  "hos_longitude": 129.3202,
+  "hos_number": "052-259-9000"
+ },
+ {
+  "hos_name": "굿힐링병원",
+  "hos_add": "부산광역시 중구 동광동3가 1-2",
+  "hos_latitude": 35.1028,
+  "hos_longitude": 129.0351,
+  "hos_number": "051-255-0200"
+ },
+ {
+  "hos_name": "금정병원",
+  "hos_add": "부산광역시 금정구 구서동 420-3",
+  "hos_latitude": 35.2451,
+  "hos_longitude": 129.0922,
+  "hos_number": "051-967-5225"
+ },
+ {
+  "hos_name": "김&정해운대병원",
+  "hos_add": "부산광역시 해운대구 좌동로 88",
+  "hos_latitude": 35.1721,
+  "hos_longitude": 129.176,
+  "hos_number": "051-702-7017"
+ },
+ {
+  "hos_name": "김취열기념의료재단 프라임병원",
+  "hos_add": "경상남도 진주시 명석면 나불로 305",
+  "hos_latitude": 35.2152,
+  "hos_longitude": 128.0393,
+  "hos_number": "055-772-6800"
+ },
+ {
+  "hos_name": "김해굿모닝병원",
+  "hos_add": "경상남도 김해시 분성로 444",
+  "hos_latitude": 35.2377,
+  "hos_longitude": 128.8955,
+  "hos_number": "055-333-9522"
+ },
+ {
+  "hos_name": "김해바른병원",
+  "hos_add": "경상남도 김해시 부원동 번지 4호 852-5 KR 5 6층",
+  "hos_latitude": 35.2304,
+  "hos_longitude": 128.8827,
+  "hos_number": "055-903-1234"
+ },
+ {
+  "hos_name": "김해사랑병원",
+  "hos_add": "경상남도 김해시 내동 금관대로 1263",
+  "hos_latitude": 35.238,
+  "hos_longitude": 128.8501,
+  "hos_number": "055-320-1100"
+ },
+ {
+  "hos_name": "김해아동병원",
+  "hos_add": "경상남도 김해시 내동 1143-2",
+  "hos_latitude": 35.2366,
+  "hos_longitude": 128.8677,
+  "hos_number": "055-327-2628"
+ },
+ {
+  "hos_name": "나노병원",
+  "hos_add": "경상남도 밀양시 삼문동 36-11",
+  "hos_latitude": 35.4842,
+  "hos_longitude": 128.7856,
+  "hos_number": "055-351-1600"
+ },
+ {
+  "hos_name": "나르샤병원",
+  "hos_add": "부산광역시 동래구 중앙대로1493번길 6",
+  "hos_latitude": 35.2191,
+  "hos_longitude": 129.0852,
+  "hos_number": "051-715-7878"
+ },
+ {
+  "hos_name": "남산내과·신경과병원",
+  "hos_add": "부산광역시 금정구 구서동 184-34",
+  "hos_latitude": 35.2579,
+  "hos_longitude": 129.0985,
+  "hos_number": "051-582-9461"
+ },
+ {
+  "hos_name": "단골병원",
+  "hos_add": "부산광역시 금정구 중앙대로 1829",
+  "hos_latitude": 35.2479,
+  "hos_longitude": 129.0923,
+  "hos_number": "051-582-0100"
+ },
+ {
+  "hos_name": "단디병원",
+  "hos_add": "경상남도 양산시 강변로 442 KR",
+  "hos_latitude": 35.3387,
+  "hos_longitude": 129.0278,
+  "hos_number": "055-785-5588"
+ },
+ {
+  "hos_name": "대우아동병원",
+  "hos_add": "경상남도 거제시 옥포대첩로 38",
+  "hos_latitude": 34.8937,
+  "hos_longitude": 128.6921,
+  "hos_number": "055-687-8595"
+ },
+ {
+  "hos_name": "대한민국만만세병원",
+  "hos_add": "부산광역시 해운대구 해운대로 602 3~4층",
+  "hos_latitude": 35.1624,
+  "hos_longitude": 129.1573,
+  "hos_number": "051-741-3131"
+ },
+ {
+  "hos_name": "대한민국정형외과병원",
+  "hos_add": "부산광역시 동래구 온천제3동 아시아드대로 239-1",
+  "hos_latitude": 35.2056,
+  "hos_longitude": 129.0685,
+  "hos_number": "051-897-7582"
+ },
+ {
+  "hos_name": "더 조은병원",
+  "hos_add": "경상남도 고성군 고성읍 동외리",
+  "hos_latitude": 35.0232,
+  "hos_longitude": 128.4196,
+  "hos_number": "055-673-6800"
+ },
+ {
+  "hos_name": "더(the)큰병원",
+  "hos_add": "경상남도 김해시 분성로 208 김해 the큰병원",
+  "hos_latitude": 35.2303,
+  "hos_longitude": 128.8694,
+  "hos_number": "055-340-0900"
+ },
+ {
+  "hos_name": "더서울병원",
+  "hos_add": "경상남도 창원시 의창구 천주로 14",
+  "hos_latitude": 35.514,
+  "hos_longitude": 129.2337,
+  "hos_number": "055-298-3533"
+ },
+ {
+  "hos_name": "더이로운병원",
+  "hos_add": "경상남도 양산시 양산대로 886",
+  "hos_latitude": 35.3496,
+  "hos_longitude": 129.0375,
+  "hos_number": "055-785-0123"
+ },
+ {
+  "hos_name": "더탄탄병원",
+  "hos_add": "부산광역시 사하구 괴정동 사하로 189 어반푸르지오 상가 2,3,4층",
+  "hos_latitude": 35.0986,
+  "hos_longitude": 128.9938,
+  "hos_number": "051-961-1000"
+ },
+ {
+  "hos_name": "더프라임병원",
+  "hos_add": "경상남도 김해시 경원로55번길 12",
+  "hos_latitude": 35.2487,
+  "hos_longitude": 128.8858,
+  "hos_number": "055-328-0059"
+ },
+ {
+  "hos_name": "동래성모병원",
+  "hos_add": "부산광역시 동래구 충렬대로 188 명륜동 메디컬센터 7-10층",
+  "hos_latitude": 35.2035,
+  "hos_longitude": 129.0808,
+  "hos_number": "051-559-8888"
+ },
+ {
+  "hos_name": "동래아동병원",
+  "hos_add": "부산광역시 동래구 충렬대로 384 동래아동병원",
+  "hos_latitude": 35.1973,
+  "hos_longitude": 129.1008,
+  "hos_number": "051-715-0500"
+ },
+ {
+  "hos_name": "동래우리들병원",
+  "hos_add": "부산광역시 낙민동 205-10",
+  "hos_latitude": 35.2002,
+  "hos_longitude": 129.0906,
+  "hos_number": "051-559-5000"
+ },
+ {
+  "hos_name": "동마산병원",
+  "hos_add": "경상남도 창원시 마산회원구 3·15대로 681 동마산병원",
+  "hos_latitude": 35.2341,
+  "hos_longitude": 128.5786,
+  "hos_number": "055-290-5114"
+ },
+ {
+  "hos_name": "리스본병원",
+  "hos_add": "부산광역시 연제구 연산동 중앙대로 1090 9층~11층",
+  "hos_latitude": 35.1848,
+  "hos_longitude": 129.0811,
+  "hos_number": "051-710-1900"
+ },
+ {
+  "hos_name": "마더즈병원",
+  "hos_add": "부산광역시 동래구 낙민동 210-4",
+  "hos_latitude": 35.2005,
+  "hos_longitude": 129.0898,
+  "hos_number": "051-552-0521"
+ },
+ {
+  "hos_name": "맑은샘센텀병원",
+  "hos_add": "경상남도 거제시 옥포1동 거제대로 3762",
+  "hos_latitude": 34.8921,
+  "hos_longitude": 128.689,
+  "hos_number": "055-688-7500"
+ },
+ {
+  "hos_name": "맘스여성병원",
+  "hos_add": "울산광역시 중구 남외동 512-8",
+  "hos_latitude": 35.5691,
+  "hos_longitude": 129.3582,
+  "hos_number": "052-290-6000"
+ },
+ {
+  "hos_name": "메가병원",
+  "hos_add": "경상남도 김해시 장유면 계동로 237",
+  "hos_latitude": 35.1914,
+  "hos_longitude": 128.804,
+  "hos_number": "055-903-9000"
+ },
+ {
+  "hos_name": "메드윌병원",
+  "hos_add": "부산광역시 금정구 구서동 163-8",
+  "hos_latitude": 35.2586,
+  "hos_longitude": 129.0911,
+  "hos_number": "051-519-8000"
+ },
+ {
+  "hos_name": "메트로병원",
+  "hos_add": "경상남도 창원시 의창구 중동 평산로219번길 3",
+  "hos_latitude": 35.267,
+  "hos_longitude": 128.6537,
+  "hos_number": "055-259-7700"
+ },
+ {
+  "hos_name": "메트로적추병원",
+  "hos_add": "부산광역시 수영구 수영로 390-1",
+  "hos_latitude": 35.1413,
+  "hos_longitude": 129.1078,
+  "hos_number": "051-626-0250"
+ },
+ {
+  "hos_name": "명지아동병원",
+  "hos_add": "부산광역시 강서구 명지동 국제8로 240 4층",
+  "hos_latitude": 35.0979,
+  "hos_longitude": 128.9193,
+  "hos_number": "051-717-0230"
+ },
+ {
+  "hos_name": "모란여성병원",
+  "hos_add": "경상남도 창원시 성산구 마디미서로 56 모란여성병원",
+  "hos_latitude": 35.2207,
+  "hos_longitude": 128.6811,
+  "hos_number": "055-253-3555"
+ },
+ {
+  "hos_name": "무룹병원",
+  "hos_add": "경상남도 창원시 마산합포구 3·15대로 243",
+  "hos_latitude": 35.2,
+  "hos_longitude": 128.5671,
+  "hos_number": "055-249-5800"
+ },
+ {
+  "hos_name": "미래로병원",
+  "hos_add": "부산광역시 북구 덕천동 금곡대로 15",
+  "hos_latitude": 35.2114,
+  "hos_longitude": 129.0047,
+  "hos_number": "051-330-5000"
+ },
+ {
+  "hos_name": "미래병원",
+  "hos_add": "부산광역시 동래구 충렬대로 358",
+  "hos_latitude": 35.1979,
+  "hos_longitude": 129.098,
+  "hos_number": "051-523-3200"
+ },
+ {
+  "hos_name": "미래아동병원",
+  "hos_add": "울산광역시 동구 방어진순환도로 1162 미래아동병원",
+  "hos_latitude": 35.5398,
+  "hos_longitude": 129.4221,
+  "hos_number": "052-235-5533"
+ },
+ {
+  "hos_name": "미래아이여성병원",
+  "hos_add": "부산광역시 사하구 하단동 596-14",
+  "hos_latitude": 35.1059,
+  "hos_longitude": 128.9635,
+  "hos_number": "051-200-9999"
+ },
+ {
+  "hos_name": "미래어린이병원",
+  "hos_add": "부산광역시 사상구 엄궁동 낙동대로 790",
+  "hos_latitude": 35.131,
+  "hos_longitude": 128.9725,
+  "hos_number": "051-313-1717"
+ },
+ {
+  "hos_name": "미래여성병원",
+  "hos_add": "부산광역시 부산진구 가야대로 459",
+  "hos_latitude": 35.1537,
+  "hos_longitude": 129.0222,
+  "hos_number": "051-890-9999"
+ },
+ {
+  "hos_name": "미소안재활병원",
+  "hos_add": "경상남도 창원시 마산회원구 합성동 83-3",
+  "hos_latitude": 35.241,
+  "hos_longitude": 128.5841,
+  "hos_number": "055-299-7510"
+ },
+ {
+  "hos_name": "밀양병원",
+  "hos_add": "경상남도 밀양시 삼문동 밀양대로 1823",
+  "hos_latitude": 35.4872,
+  "hos_longitude": 128.7488,
+  "hos_number": "055-351-3993"
+ },
+ {
+  "hos_name": "바른길병원",
+  "hos_add": "부산광역시 해운대구 반여제1동 1026-15",
+  "hos_latitude": 35.2059,
+  "hos_longitude": 129.1218,
+  "hos_number": "051-525-0058"
+ },
+ {
+  "hos_name": "바른병원",
+  "hos_add": "부산광역시 서구 보수대로 9",
+  "hos_latitude": 35.0977,
+  "hos_longitude": 129.025,
+  "hos_number": "051-247-0119"
+ },
+ {
+  "hos_name": "박원욱병원",
+  "hos_add": "부산광역시 수영구 광안로 4",
+  "hos_latitude": 35.157,
+  "hos_longitude": 129.1134,
+  "hos_number": "1544-7582"
+ },
+ {
+  "hos_name": "반도병원",
+  "hos_add": "경상남도 진주시 장대동 100-10",
+  "hos_latitude": 35.1918,
+  "hos_longitude": 128.0882,
+  "hos_number": "055-747-6000"
+ },
+ {
+  "hos_name": "밝은눈안과병원",
+  "hos_add": "부산광역시 부산진구 가야대로 729 명안빌딩",
+  "hos_latitude": 35.158,
+  "hos_longitude": 129.0513,
+  "hos_number": "1670-3993"
+ },
+ {
+  "hos_name": "베스트수병원",
+  "hos_add": "경상남도 창원시 마산회원구 양덕로 190",
+  "hos_latitude": 35.2343,
+  "hos_longitude": 128.5804,
+  "hos_number": "055-290-2900"
+ },
+ {
+  "hos_name": "본바른병원",
+  "hos_add": "경상남도 양산시 물금읍 청운로 343 본바른병원",
+  "hos_latitude": 35.327,
+  "hos_longitude": 129.0154,
+  "hos_number": "055-785-3117"
+ },
+ {
+  "hos_name": "부산마이크로병원",
+  "hos_add": "부산광역시 금정구 중앙대로 1875",
+  "hos_latitude": 35.2517,
+  "hos_longitude": 129.0911,
+  "hos_number": "051-514-1400"
+ },
+ {
+  "hos_name": "부산맘아동병원",
+  "hos_add": "부산광역시 사하구 낙동대로 451",
+  "hos_latitude": 35.1051,
+  "hos_longitude": 128.989,
+  "hos_number": "051-271-8275"
+ },
+ {
+  "hos_name": "부산미남병원",
+  "hos_add": "부산광역시 동래구 아시아드대로 213",
+  "hos_latitude": 35.2033,
+  "hos_longitude": 129.0663,
+  "hos_number": "051-501-8288"
+ },
+ {
+  "hos_name": "부산본병원",
+  "hos_add": "부산광역시 사하구 당리동 승학로 8",
+  "hos_latitude": 35.1063,
+  "hos_longitude": 128.9699,
+  "hos_number": "1599-8275"
+ },
+ {
+  "hos_name": "부산성소병원",
+  "hos_add": "부산광역시 남구 대연동 1763-6",
+  "hos_latitude": 35.135,
+  "hos_longitude": 129.0853,
+  "hos_number": "051-633-1123"
+ },
+ {
+  "hos_name": "부산아동병원",
+  "hos_add": "부산광역시 남구 수영로 228",
+  "hos_latitude": 35.1349,
+  "hos_longitude": 129.0914,
+  "hos_number": "051-612-7582"
+ },
+ {
+  "hos_name": "부산우리들병원",
+  "hos_add": "부산광역시 동래구 중앙대로 1523",
+  "hos_latitude": 35.2213,
+  "hos_longitude": 129.0857,
+  "hos_number": "051-559-2000"
+ },
+ {
+  "hos_name": "부산제2항운병원",
+  "hos_add": "부산광역시 부산진구 범일로 186",
+  "hos_latitude": 35.1467,
+  "hos_longitude": 129.0597,
+  "hos_number": "051-607-5300"
+ },
+ {
+  "hos_name": "부산큰병원",
+  "hos_add": "부산광역시 부산진구 가야대로 494",
+  "hos_latitude": 35.1529,
+  "hos_longitude": 129.0262,
+  "hos_number": "051-991-0123"
+ },
+ {
+  "hos_name": "부영병원",
+  "hos_add": "부산광역시 사상구 학장동 574-107",
+  "hos_latitude": 35.1411,
+  "hos_longitude": 128.9841,
+  "hos_number": "051-320-6800"
+ },
+ {
+  "hos_name": "사단법인 부산의료선교회 세계로병원",
+  "hos_add": "부산광역시 동래구 종합운동장로 42",
+  "hos_latitude": 35.1945,
+  "hos_longitude": 129.0648,
+  "hos_number": "051-500-6000"
+ },
+ {
+  "hos_name": "사상스마트병원",
+  "hos_add": "부산광역시 사상구 학감대로 269 사상스마트병원",
+  "hos_latitude": 35.1551,
+  "hos_longitude": 128.9906,
+  "hos_number": "051-322-3000"
+ },
+ {
+  "hos_name": "사천서울아동병원",
+  "hos_add": "경상남도 사천시 사천읍 평화리 1-15",
+  "hos_latitude": 35.0801,
+  "hos_longitude": 128.0915,
+  "hos_number": "055-852-8175"
+ },
+ {
+  "hos_name": "사회복지법인내원 마하재활병원",
+  "hos_add": "경상남도 거제시 동부면 부춘리",
+  "hos_latitude": 34.8068,
+  "hos_longitude": 128.6012,
+  "hos_number": "055-633-3000"
+ },
+ {
+  "hos_name": "삼성아동병원",
+  "hos_add": "경상남도 김해시 삼계동 1505-2",
+  "hos_latitude": 35.2604,
+  "hos_longitude": 128.8691,
+  "hos_number": "055-331-8175"
+ },
+ {
+  "hos_name": "삼성합천병원",
+  "hos_add": "경상남도 합천군 합천읍 대야로 876 삼성합천병원",
+  "hos_latitude": 35.5663,
+  "hos_longitude": 128.1633,
+  "hos_number": "055-933-2200"
+ },
+ {
+  "hos_name": "삼일정풍병원",
+  "hos_add": "경상남도 창원시 마산합포구 3·15대로 164 삼일정풍병원",
+  "hos_latitude": 35.1927,
+  "hos_longitude": 128.5655,
+  "hos_number": "055-246-3131"
+ },
+ {
+  "hos_name": "삼천포제일병원",
+  "hos_add": "경상남도 사천시 벌리동 중앙로 136",
+  "hos_latitude": 34.9373,
+  "hos_longitude": 128.0795,
+  "hos_number": "055-833-4400"
+ },
+ {
+  "hos_name": "상남굿모닝내과병원",
+  "hos_add": "경상남도 성산구 상남로 73 서울메디컬센터",
+  "hos_latitude": 35.2207,
+  "hos_longitude": 128.6797,
+  "hos_number": "055-266-7582"
+ },
+ {
+  "hos_name": "상쾌한병원",
+  "hos_add": "부산광역시 수영구 광안동 1070-9",
+  "hos_latitude": 35.1683,
+  "hos_longitude": 129.1135,
+  "hos_number": "051-751-9775"
+ },
+ {
+  "hos_name": "새봄병원",
+  "hos_add": "부산광역시 동래구 충렬대로 152 (7 10층",
+  "hos_latitude": 35.2048,
+  "hos_longitude": 129.0767,
+  "hos_number": "1899-7572"
+ },
+ {
+  "hos_name": "새부산병원",
+  "hos_add": "부산광역시 동구 초량중로 74",
+  "hos_latitude": 35.1183,
+  "hos_longitude": 129.0392,
+  "hos_number": "051-711-1000"
+ },
+ {
+  "hos_name": "새우리남산병원",
+  "hos_add": "부산광역시 금정구 중앙대로 2025",
+  "hos_latitude": 35.2653,
+  "hos_longitude": 129.0922,
+  "hos_number": "051-516-9999"
+ },
+ {
+  "hos_name": "새한솔병원",
+  "hos_add": "경상남도 밀양시 내이동 창밀로 3528",
+  "hos_latitude": 35.5062,
+  "hos_longitude": 128.7345,
+  "hos_number": "055-356-0099"
+ },
+ {
+  "hos_name": "새항운병원",
+  "hos_add": "부산광역시 연제구 중앙대로 1064",
+  "hos_latitude": 35.1829,
+  "hos_longitude": 129.0796,
+  "hos_number": "051-866-2800"
+ },
+ {
+  "hos_name": "새힘병원",
+  "hos_add": "부산광역시 동래구 아시아드대로 261",
+  "hos_latitude": 35.207,
+  "hos_longitude": 129.0688,
+  "hos_number": "1522-4854"
+ },
+ {
+  "hos_name": "서울병원",
+  "hos_add": "경상남도 창원시 마산회원구 석전동 244-8번지",
+  "hos_latitude": 35.2316,
+  "hos_longitude": 128.577,
+  "hos_number": "055-255-7000"
+ },
+ {
+  "hos_name": "서울새싹병원",
+  "hos_add": "경상남도 김해시 율하3로 53",
+  "hos_latitude": 35.1728,
+  "hos_longitude": 128.8149,
+  "hos_number": "055-312-9000"
+ },
+ {
+  "hos_name": "서울아동병원",
+  "hos_add": "경상남도 김해시 장유면 번화1로80번길 5",
+  "hos_latitude": 35.1947,
+  "hos_longitude": 128.8001,
+  "hos_number": "055-314-7007"
+ },
+ {
+  "hos_name": "서울이비인후과병원",
+  "hos_add": "경상남도 창원시 성산구 상남로 73",
+  "hos_latitude": 35.2206,
+  "hos_longitude": 128.6799,
+  "hos_number": "055-282-2800"
+ },
+ {
+  "hos_name": "서울패미리병원",
+  "hos_add": "경상남도 양산시 물금읍 가촌리 129-6",
+  "hos_latitude": 35.3104,
+  "hos_longitude": 129.0054,
+  "hos_number": "055-785-5600"
+ },
+ {
+  "hos_name": "선힐링병원",
+  "hos_add": "경상남도 양산시 물금읍 증산역로 135 조양퍼스트빌딩 6층",
+  "hos_latitude": 35.3201,
+  "hos_longitude": 129.1807,
+  "hos_number": "051-717-0124"
+ },
+ {
+  "hos_name": "성가병원",
+  "hos_add": "부산광역시 부산진구 범일로 133",
+  "hos_latitude": 35.1421,
+  "hos_longitude": 129.0591,
+  "hos_number": "051-645-9771"
+ },
+ {
+  "hos_name": "세웅병원",
+  "hos_add": "부산광역시 금정구 서동로 162",
+  "hos_latitude": 35.2144,
+  "hos_longitude": 129.1041,
+  "hos_number": "051-500-9700"
+ },
+ {
+  "hos_name": "세일병원",
+  "hos_add": "부산광역시 동구 중앙대로 317",
+  "hos_latitude": 35.1248,
+  "hos_longitude": 129.0446,
+  "hos_number": "051-464-8110"
+ },
+ {
+  "hos_name": "세화병원",
+  "hos_add": "부산광역시 동래구 온천동 미남로132번길 28",
+  "hos_latitude": 35.2059,
+  "hos_longitude": 129.0713,
+  "hos_number": "051-505-1333"
+ },
+ {
+  "hos_name": "세흥병원",
+  "hos_add": "부산광역시 부산진구 중앙대로 805",
+  "hos_latitude": 35.1637,
+  "hos_longitude": 129.0634,
+  "hos_number": "051-805-8888"
+ },
+ {
+  "hos_name": "센텀아동병원",
+  "hos_add": "부산광역시 해운대구 해운대로 407",
+  "hos_latitude": 35.1678,
+  "hos_longitude": 129.1407,
+  "hos_number": "051-743-1588"
+ },
+ {
+  "hos_name": "센텀힐병원",
+  "hos_add": "부산광역시 해운대구 재송동 1117-1",
+  "hos_latitude": 35.1853,
+  "hos_longitude": 129.1254,
+  "hos_number": "051-713-6000"
+ },
+ {
+  "hos_name": "수영어린이병원",
+  "hos_add": "부산광역시 수영구 수영로 671",
+  "hos_latitude": 35.1658,
+  "hos_longitude": 129.1145,
+  "hos_number": "051-753-3579"
+ },
+ {
+  "hos_name": "순병원",
+  "hos_add": "부산광역시 금정구 중앙대로 1701",
+  "hos_latitude": 35.2365,
+  "hos_longitude": 129.0914,
+  "hos_number": "051-515-0005"
+ },
+ {
+  "hos_name": "시영의료재단 영동병원",
+  "hos_add": "경상남도 함안군 칠원읍 용산2길 45-13",
+  "hos_latitude": 35.309,
+  "hos_longitude": 128.5156,
+  "hos_number": "055-586-2000"
+ },
+ {
+  "hos_name": "시원항병원",
+  "hos_add": "부산광역시 북구 덕천제2동 331-4",
+  "hos_latitude": 35.2124,
+  "hos_longitude": 129.0042,
+  "hos_number": "051-331-7275"
+ },
+ {
+  "hos_name": "신마산서울아동병원",
+  "hos_add": "경상남도 창원시 마산합포구 창포동3가 8-2",
+  "hos_latitude": 35.1818,
+  "hos_longitude": 128.5609,
+  "hos_number": "707-434-9516"
+ },
+ {
+  "hos_name": "신세계로병원",
+  "hos_add": "경상남도 통영시 정동2길 58",
+  "hos_latitude": 34.8438,
+  "hos_longitude": 128.4304,
+  "hos_number": "055-648-8275"
+ },
+ {
+  "hos_name": "씽씽(singsing)병원",
+  "hos_add": "경상남도 창원시 성산구 중앙대로 104 3층",
+  "hos_latitude": 35.2235,
+  "hos_longitude": 128.6808,
+  "hos_number": "055-715-6200"
+ },
+ {
+  "hos_name": "아이(i)서울병원",
+  "hos_add": "부산광역시 영도구 영선대로 75 삼호빌딩",
+  "hos_latitude": 35.0877,
+  "hos_longitude": 129.0418,
+  "hos_number": "051-730-8300"
+ },
+ {
+  "hos_name": "아이마음아동병원",
+  "hos_add": "울산광역시 북구 매곡동 626-3",
+  "hos_latitude": 35.6427,
+  "hos_longitude": 129.3576,
+  "hos_number": "052-716-5170"
+ },
+ {
+  "hos_name": "아이사랑병원",
+  "hos_add": "부산광역시 연제구 연산제4동 반송로 28-1 2,3,4,5,10층 태영메디컬빌딩",
+  "hos_latitude": 35.1876,
+  "hos_longitude": 129.084,
+  "hos_number": "051-711-0063"
+ },
+ {
+  "hos_name": "아이사랑병원",
+  "hos_add": "경상남도 김해시 활천로 22 아이사랑병원",
+  "hos_latitude": 35.2296,
+  "hos_longitude": 128.8941,
+  "hos_number": "055-325-5775"
+ },
+ {
+  "hos_name": "아이윤병원",
+  "hos_add": "울산광역시 중구 번영로 371",
+  "hos_latitude": 35.5582,
+  "hos_longitude": 129.3269,
+  "hos_number": "1544-4267"
+ },
+ {
+  "hos_name": "아주재활병원",
+  "hos_add": "부산광역시 사하구 낙동남로 1412 경부빌딩",
+  "hos_latitude": 35.1061,
+  "hos_longitude": 128.9676,
+  "hos_number": "051-713-2000"
+ },
+ {
+  "hos_name": "양덕서울아동병원",
+  "hos_add": "경상남도 창원시 마산회원구 양덕로 190",
+  "hos_latitude": 35.2343,
+  "hos_longitude": 128.5803,
+  "hos_number": "055-299-8275"
+ },
+ {
+  "hos_name": "양산아이들병원",
+  "hos_add": "경상남도 양산시 물금읍 범어리 2714-18",
+  "hos_latitude": 35.3272,
+  "hos_longitude": 129.017,
+  "hos_number": "055-780-1111"
+ },
+ {
+  "hos_name": "양산제일병원",
+  "hos_add": "경상남도 양산시 동면 금오로 255",
+  "hos_latitude": 35.316,
+  "hos_longitude": 129.0273,
+  "hos_number": "055-904-7575"
+ },
+ {
+  "hos_name": "에덴어린이병원",
+  "hos_add": "부산광역시 부산진구 에덴 어린이병원 10층",
+  "hos_latitude": 35.1561,
+  "hos_longitude": 129.0427,
+  "hos_number": "051-710-3181"
+ },
+ {
+  "hos_name": "에디스여성병원",
+  "hos_add": "부산광역시 사하구 낙동대로 361",
+  "hos_latitude": 35.1015,
+  "hos_longitude": 128.9779,
+  "hos_number": "051-206-0999"
+ },
+ {
+  "hos_name": "에스병원(S병원)",
+  "hos_add": "부산광역시 영도구 동삼로 55-1",
+  "hos_latitude": 35.0784,
+  "hos_longitude": 129.0703,
+  "hos_number": "051-412-7000"
+ },
+ {
+  "hos_name": "에이치엠병원",
+  "hos_add": "울산광역시 남구 중앙로167번길 26",
+  "hos_latitude": 35.5356,
+  "hos_longitude": 129.3111,
+  "hos_number": "052-267-0075"
+ },
+ {
+  "hos_name": "엘리움병원",
+  "hos_add": "부산광역시 해운대구 해운대로 794 8F 7F",
+  "hos_latitude": 35.1688,
+  "hos_longitude": 129.1758,
+  "hos_number": "051-791-1006"
+ },
+ {
+  "hos_name": "엘앤더슨병원",
+  "hos_add": "부산광역시 서구 서대신동3가 61-3번지 엘앤더슨병원",
+  "hos_latitude": 35.1214,
+  "hos_longitude": 129.0167,
+  "hos_number": "051-291-0707"
+ },
+ {
+  "hos_name": "연세척병원",
+  "hos_add": "부산광역시 부산진구 가야대로 715 위너스빌딩",
+  "hos_latitude": 35.1576,
+  "hos_longitude": 129.0498,
+  "hos_number": "051-935-1004"
+ },
+ {
+  "hos_name": "연제일신병원",
+  "hos_add": "부산광역시 연제구 고분로 6",
+  "hos_latitude": 35.1857,
+  "hos_longitude": 129.0829,
+  "hos_number": "051-862-2002"
+ },
+ {
+  "hos_name": "예담소아청소년과병원",
+  "hos_add": "경상남도 진주시 충무 공동 282-3 KR",
+  "hos_latitude": 35.1759,
+  "hos_longitude": 128.1484,
+  "hos_number": "055-755-3311"
+ },
+ {
+  "hos_name": "예인여성병원",
+  "hos_add": "경상남도 창원시 진해구 자은동 813-2",
+  "hos_latitude": 35.1442,
+  "hos_longitude": 128.7069,
+  "hos_number": "055-542-9000"
+ },
+ {
+  "hos_name": "오성병원",
+  "hos_add": "부산광역시 부산진구 양정동 중앙대로 910",
+  "hos_latitude": 35.1713,
+  "hos_longitude": 129.0704,
+  "hos_number": "051-850-0800"
+ },
+ {
+  "hos_name": "용원중앙병원",
+  "hos_add": "경상남도 창원시 진해구 용원동로 231 4층",
+  "hos_latitude": 35.0947,
+  "hos_longitude": 128.8131,
+  "hos_number": "055-716-1114"
+ },
+ {
+  "hos_name": "우리병원",
+  "hos_add": "부산광역시 사상구 괘법동 524-9",
+  "hos_latitude": 35.1661,
+  "hos_longitude": 128.9825,
+  "hos_number": "051-323-6613"
+ },
+ {
+  "hos_name": "우리여성병원",
+  "hos_add": "경상남도 김해시 내동 내외중앙로 91",
+  "hos_latitude": 35.2382,
+  "hos_longitude": 128.8671,
+  "hos_number": "055-321-0114"
+ },
+ {
+  "hos_name": "울들병원",
+  "hos_add": "울산광역시 남구 신정동 중앙로 228",
+  "hos_latitude": 35.5412,
+  "hos_longitude": 129.312,
+  "hos_number": "052-706-1111"
+ },
+ {
+  "hos_name": "울산광역시H병원",
+  "hos_add": "울산광역시 중구 화합로 363",
+  "hos_latitude": 35.5584,
+  "hos_longitude": 129.3408,
+  "hos_number": "052-290-7100"
+ },
+ {
+  "hos_name": "울산광역시미즈병원",
+  "hos_add": "울산광역시 남구 무거동 128-5",
+  "hos_latitude": 35.5523,
+  "hos_longitude": 129.2709,
+  "hos_number": "052-220-0100"
+ },
+ {
+  "hos_name": "울산광역시아동병원",
+  "hos_add": "울산광역시 북구 호계로 332-1 현대하이플러스",
+  "hos_latitude": 35.6332,
+  "hos_longitude": 129.3501,
+  "hos_number": "052-282-7171"
+ },
+ {
+  "hos_name": "울산광역시우리병원",
+  "hos_add": "울산광역시 남구 번영로 195 동문아뮤티",
+  "hos_latitude": 35.5425,
+  "hos_longitude": 129.3253,
+  "hos_number": "052-220-8000"
+ },
+ {
+  "hos_name": "울산광역시청맥외과병원",
+  "hos_add": "울산광역시 남구 삼산로 274 w center빌딩 1501호",
+  "hos_latitude": 35.5392,
+  "hos_longitude": 129.337,
+  "hos_number": "052-266-2975"
+ },
+ {
+  "hos_name": "웅상센텀힐병원",
+  "hos_add": "경상남도 양산시 평산동 100-1번지",
+  "hos_latitude": 35.3813,
+  "hos_longitude": 129.1538,
+  "hos_number": "055-386-2600"
+ },
+ {
+  "hos_name": "웅상좋은아이병원",
+  "hos_add": "경상남도 양산시 평산동 평산로 12",
+  "hos_latitude": 35.3817,
+  "hos_longitude": 129.1537,
+  "hos_number": "055-603-2070"
+ },
+ {
+  "hos_name": "워크재활의학과병원",
+  "hos_add": "부산광역시 연제구 연산동 603-8",
+  "hos_latitude": 35.1866,
+  "hos_longitude": 129.0845,
+  "hos_number": "051-714-4119"
+ },
+ {
+  "hos_name": "웰니스병원",
+  "hos_add": "부산광역시 연제구 연산1동 589-9",
+  "hos_latitude": 35.189,
+  "hos_longitude": 129.0859,
+  "hos_number": "051-850-0500"
+ },
+ {
+  "hos_name": "웰하이여성아동병원",
+  "hos_add": "부산광역시 강서구 명지오션시티4로 95 웰하이여성아동병원",
+  "hos_latitude": 35.0805,
+  "hos_longitude": 128.094,
+  "hos_number": "051-201-8854"
+ },
+ {
+  "hos_name": "위대한탄생여성병원",
+  "hos_add": "부산광역시 연제구 연산제5동",
+  "hos_latitude": 35.1848,
+  "hos_longitude": 129.0803,
+  "hos_number": "051-862-0100"
+ },
+ {
+  "hos_name": "위대항병원",
+  "hos_add": "부산광역시 남구 수영로 241",
+  "hos_latitude": 35.1353,
+  "hos_longitude": 129.093,
+  "hos_number": "051-928-9000"
+ },
+ {
+  "hos_name": "위드여성병원",
+  "hos_add": "울산광역시 남구 삼산동 남중로 123",
+  "hos_latitude": 35.5455,
+  "hos_longitude": 129.348,
+  "hos_number": "052-915-8000"
+ },
+ {
+  "hos_name": "유성병원",
+  "hos_add": "울산광역시 중구 학산동 93-1",
+  "hos_latitude": 35.559,
+  "hos_longitude": 129.3268,
+  "hos_number": "052-210-0100"
+ },
+ {
+  "hos_name": "윤병원",
+  "hos_add": "경상남도 창원시 의창구 서상동 310-1",
+  "hos_latitude": 35.2619,
+  "hos_longitude": 128.6206,
+  "hos_number": "055-255-7100"
+ },
+ {
+  "hos_name": "율하꿈나무병원",
+  "hos_add": "경상남도 김해시 장유면 율하3로 38 8층",
+  "hos_latitude": 35.1725,
+  "hos_longitude": 128.815,
+  "hos_number": "055-331-9600"
+ },
+ {
+  "hos_name": "은혜병원",
+  "hos_add": "경상남도 창원시 마산합포구 해안대로 331 한백마리나타운",
+  "hos_latitude": 35.2016,
+  "hos_longitude": 128.5765,
+  "hos_number": "055-222-9161"
+ },
+ {
+  "hos_name": "의)청십자의료재단 행복한병원",
+  "hos_add": "경상남도 밀양시 하남읍 수산리 469-3",
+  "hos_latitude": 35.3746,
+  "hos_longitude": 128.7116,
+  "hos_number": "055-391-0090"
+ },
+ {
+  "hos_name": "의령병원",
+  "hos_add": "경상남도 의령군 의령읍 의병로14길 10",
+  "hos_latitude": 35.3185,
+  "hos_longitude": 128.2587,
+  "hos_number": "055-573-4100"
+ },
+ {
+  "hos_name": "의료법인 갑을의료재단 갑을녹산병원",
+  "hos_add": "부산광역시 강서구 송정동 1627-2",
+  "hos_latitude": 35.0906,
+  "hos_longitude": 128.8533,
+  "hos_number": "051-974-8300"
+ },
+ {
+  "hos_name": "의료법인 명원의료재단 파인힐병원",
+  "hos_add": "울산광역시 울주군 상북면 석남로 900",
+  "hos_latitude": 35.6115,
+  "hos_longitude": 129.0736,
+  "hos_number": "052-263-0070"
+ },
+ {
+  "hos_name": "의료법인 바른의료재단 바른병원",
+  "hos_add": "경상남도 진주시 동진로 7",
+  "hos_latitude": 35.1792,
+  "hos_longitude": 128.0917,
+  "hos_number": "055-790-3000"
+ },
+ {
+  "hos_name": "의료법인 상원의료재단 부산힘찬병원",
+  "hos_add": "부산광역시 동래구 충렬대로 255",
+  "hos_latitude": 35.2013,
+  "hos_longitude": 129.0872,
+  "hos_number": "1899-2555"
+ },
+ {
+  "hos_name": "의료법인 생명사랑의료재단 밀양윤병원",
+  "hos_add": "경상남도 밀양시 삼문중앙로 32",
+  "hos_latitude": 35.4847,
+  "hos_longitude": 128.7557,
+  "hos_number": "055-354-2200"
+ },
+ {
+  "hos_name": "의료법인 세광의료재단 성모안과병원",
+  "hos_add": "부산광역시 해운대구 우동 1078-6번지",
+  "hos_latitude": 35.1712,
+  "hos_longitude": 129.14,
+  "hos_number": "051-743-0775"
+ },
+ {
+  "hos_name": "의료법인 센텀의료재단 부산센텀병원",
+  "hos_add": "부산광역시 수영구 수영로 677",
+  "hos_latitude": 35.1663,
+  "hos_longitude": 129.1147,
+  "hos_number": "1644-5520"
+ },
+ {
+  "hos_name": "의료법인 송은의료재단 울산광역시시티e병원",
+  "hos_add": "울산광역시 북구 산업로 1007",
+  "hos_latitude": 35.5829,
+  "hos_longitude": 129.3593,
+  "hos_number": "052-280-9000"
+ },
+ {
+  "hos_name": "의료법인 신생의료재단 센트럴병원",
+  "hos_add": "부산광역시 북구 만덕대로 37",
+  "hos_latitude": 35.2113,
+  "hos_longitude": 129.0091,
+  "hos_number": "051-540-8275"
+ },
+ {
+  "hos_name": "의료법인 신의료재단 김해삼승병원",
+  "hos_add": "경상남도 김해시 김해대로 2335 김해삼승병원",
+  "hos_latitude": 35.2268,
+  "hos_longitude": 128.8822,
+  "hos_number": "055-310-7700"
+ },
+ {
+  "hos_name": "의료법인 심연의료재단 세명병원",
+  "hos_add": "경상남도 창원시 진해구 용원동 1216-1",
+  "hos_latitude": 35.1009,
+  "hos_longitude": 128.8134,
+  "hos_number": "055-540-7500"
+ },
+ {
+  "hos_name": "의료법인 영재의료재단 큰솔2병원",
+  "hos_add": "부산광역시 사상구 학장로 189",
+  "hos_latitude": 35.1435,
+  "hos_longitude": 128.9872,
+  "hos_number": "051-322-0050"
+ },
+ {
+  "hos_name": "의료법인 온그룹의료재단 일어나걸어라온병원",
+  "hos_add": "부산광역시 부산진구 가야대로 721",
+  "hos_latitude": 35.1578,
+  "hos_longitude": 129.05,
+  "hos_number": "051-607-0114"
+ },
+ {
+  "hos_name": "의료법인 우람의료재단 세종병원",
+  "hos_add": "부산광역시 남구 문현동 수영로 30-1 세종빌딩 2층",
+  "hos_latitude": 35.1366,
+  "hos_longitude": 129.0712,
+  "hos_number": "051-642-9977"
+ },
+ {
+  "hos_name": "의료법인 이도의료재단 남해병원",
+  "hos_add": "경상남도 남해군 남해읍 아산리 170",
+  "hos_latitude": 34.8462,
+  "hos_longitude": 127.8944,
+  "hos_number": "055-863-2201"
+ },
+ {
+  "hos_name": "의료법인 인당의료재단 구포부민병원",
+  "hos_add": "부산광역시 북구 사상로 605",
+  "hos_latitude": 35.1983,
+  "hos_longitude": 128.9907,
+  "hos_number": "051-366-7000"
+ },
+ {
+  "hos_name": "의료법인 인해의료재단 화명장시원병원",
+  "hos_add": "부산광역시 북구 화명동 2276-1",
+  "hos_latitude": 35.2347,
+  "hos_longitude": 129.011,
+  "hos_number": "051-331-7275"
+ },
+ {
+  "hos_name": "의료법인 파란시티의료재단 부산항운병원",
+  "hos_add": "부산광역시 동래구 안락동 충렬대로348번길 1",
+  "hos_latitude": 35.1976,
+  "hos_longitude": 129.0964,
+  "hos_number": "051-580-2700"
+ },
+ {
+  "hos_name": "의료법인 학산의료재단 아라한국병원",
+  "hos_add": "경상남도 함안군 산인면 송정리 850번지",
+  "hos_latitude": 35.2747,
+  "hos_longitude": 128.4317,
+  "hos_number": "055-582-8088"
+ },
+ {
+  "hos_name": "의료법인 한세의료재단 한세병원",
+  "hos_add": "부산광역시 해운대구 세실로 31 대승프라임 6층",
+  "hos_latitude": 35.1583,
+  "hos_longitude": 129.1809,
+  "hos_number": "051-746-0332"
+ },
+ {
+  "hos_name": "의료법인 행복한의료재단 센텀병원",
+  "hos_add": "경상남도 진주시 진주대로941번길 8 (강남동) 1,2층",
+  "hos_latitude": 35.1843,
+  "hos_longitude": 128.0877,
+  "hos_number": "055-795-2200"
+ },
+ {
+  "hos_name": "의료법인고려의료재단부산고려병원",
+  "hos_add": "부산광역시 남구 수영로 238",
+  "hos_latitude": 35.1349,
+  "hos_longitude": 129.0926,
+  "hos_number": "051-930-3000"
+ },
+ {
+  "hos_name": "의료법인나라의료재단 드림나라병원",
+  "hos_add": "부산광역시 연제구 중앙대로 1175 드림나라병원",
+  "hos_latitude": 35.1923,
+  "hos_longitude": 129.0795,
+  "hos_number": "051-853-3636"
+ },
+ {
+  "hos_name": "의료법인동원의료재단강남동강병원",
+  "hos_add": "울산광역시 남구 돋질로 80",
+  "hos_latitude": 35.5384,
+  "hos_longitude": 129.3146,
+  "hos_number": "052-241-3114"
+ },
+ {
+  "hos_name": "의료법인명은의료재단 명은병원",
+  "hos_add": "부산광역시 연제구 거제제1동 월드컵대로 184",
+  "hos_latitude": 35.188,
+  "hos_longitude": 129.0767,
+  "hos_number": "051-852-0788"
+ },
+ {
+  "hos_name": "의료법인서강의료재단 서강병원",
+  "hos_add": "부산광역시 동구 중앙대로 514 2 3층",
+  "hos_latitude": 35.1391,
+  "hos_longitude": 129.0569,
+  "hos_number": "051-715-8575"
+ },
+ {
+  "hos_name": "의료법인서호의료재단 서호하단병원",
+  "hos_add": "부산광역시 사하구 낙동대로 446 7층 ~ 14층",
+  "hos_latitude": 35.1052,
+  "hos_longitude": 128.9701,
+  "hos_number": "051-201-6666"
+ },
+ {
+  "hos_name": "의료법인성신의료재단 다대수병원",
+  "hos_add": "부산광역시 사하구 다대로 565",
+  "hos_latitude": 35.0559,
+  "hos_longitude": 128.9711,
+  "hos_number": "051-260-1000"
+ },
+ {
+  "hos_name": "의료법인센텀의료재단 서부산센텀병원",
+  "hos_add": "부산광역시 사상구 새벽로 226",
+  "hos_latitude": 35.1612,
+  "hos_longitude": 128.9846,
+  "hos_number": "1644-5530"
+ },
+ {
+  "hos_name": "의료법인승연의료재단 삼천포서울병원",
+  "hos_add": "경상남도 사천시 남일로 33",
+  "hos_latitude": 34.9334,
+  "hos_longitude": 128.0803,
+  "hos_number": "055-835-9000"
+ },
+ {
+  "hos_name": "의료법인승현의료재단 심산서울병원",
+  "hos_add": "경상남도 창원시 의창구 평산로 96 웰빙프라자 4층 401호",
+  "hos_latitude": 35.2518,
+  "hos_longitude": 128.6197,
+  "hos_number": "055-251-0888"
+ },
+ {
+  "hos_name": "의료법인신화성의료재단 잘본병원",
+  "hos_add": "경상남도 창원시 마산회원구 양덕동 150 19번지",
+  "hos_latitude": 35.2229,
+  "hos_longitude": 128.5869,
+  "hos_number": "055-253-2000"
+ },
+ {
+  "hos_name": "의료법인아너의료재단 아름다운강산병원",
+  "hos_add": "부산광역시 금정구 금사동 104-9",
+  "hos_latitude": 35.2162,
+  "hos_longitude": 129.1099,
+  "hos_number": "051-526-7100"
+ },
+ {
+  "hos_name": "의료법인아림의료재단서경병원",
+  "hos_add": "경상남도 거창군 거창읍 송정리 79",
+  "hos_latitude": 35.6813,
+  "hos_longitude": 127.8977,
+  "hos_number": "055-945-0091"
+ },
+ {
+  "hos_name": "의료법인양경의료재단 중앙U병원",
+  "hos_add": "부산광역시 사하구 감천제1동 713-5",
+  "hos_latitude": 35.0905,
+  "hos_longitude": 128.9992,
+  "hos_number": "051-293-7766"
+ },
+ {
+  "hos_name": "의료법인에스엠씨의료재단울산광역시세민병원",
+  "hos_add": "울산광역시 중구 학성로 184",
+  "hos_latitude": 35.5566,
+  "hos_longitude": 129.331,
+  "hos_number": "052-290-0114"
+ },
+ {
+  "hos_name": "의료법인염광의료재단세광병원",
+  "hos_add": "경상남도 창원시 진해구 중앙동 6번지",
+  "hos_latitude": 35.1498,
+  "hos_longitude": 128.661,
+  "hos_number": "055-540-3700"
+ },
+ {
+  "hos_name": "의료법인영재의료재단 큰솔병원",
+  "hos_add": "부산광역시 사상구 학장동 574-1",
+  "hos_latitude": 35.1409,
+  "hos_longitude": 128.9825,
+  "hos_number": "051-325-9700"
+ },
+ {
+  "hos_name": "의료법인영진의료재단 엠아이병원",
+  "hos_add": "경상남도 김해시 장유면 번화1로 36",
+  "hos_latitude": 35.1951,
+  "hos_longitude": 128.8031,
+  "hos_number": "055-339-8811"
+ },
+ {
+  "hos_name": "의료법인우암의료재단진동태봉병원",
+  "hos_add": "경상남도 창원시 마산합포구 진동면 동전리 1434-5",
+  "hos_latitude": 35.1456,
+  "hos_longitude": 128.511,
+  "hos_number": "055-271-8151"
+ },
+ {
+  "hos_name": "의료법인원의료재단 주병원",
+  "hos_add": "경상남도 김해시 분성로727번길 8-18",
+  "hos_latitude": 35.2309,
+  "hos_longitude": 128.9218,
+  "hos_number": "055-720-8888"
+ },
+ {
+  "hos_name": "의료법인위더스의료재단위더스병원",
+  "hos_add": "경상남도 창원시 마산합포구 신포동2가 85-7번지",
+  "hos_latitude": 35.2023,
+  "hos_longitude": 128.5732,
+  "hos_number": "055-220-7715"
+ },
+ {
+  "hos_name": "의료법인정우의료재단프라우메디병원",
+  "hos_add": "울산광역시 남구 삼산동 삼산중로 94",
+  "hos_latitude": 35.542,
+  "hos_longitude": 129.3359,
+  "hos_number": "052-226-7114"
+ },
+ {
+  "hos_name": "의료법인지원의료재단 굿모닝병원",
+  "hos_add": "경상남도 밀양시 용평동 344번지",
+  "hos_latitude": 35.5008,
+  "hos_longitude": 128.7565,
+  "hos_number": "055-355-9788"
+ },
+ {
+  "hos_name": "의료법인창녕서울의료재단창녕서울병원",
+  "hos_add": "경상남도 창녕군 창녕읍 탐하리 23-1번지",
+  "hos_latitude": 35.535,
+  "hos_longitude": 128.4982,
+  "hos_number": "055-5321-9759"
+ },
+ {
+  "hos_name": "의료법인현백의료재단사상고려병원",
+  "hos_add": "부산광역시 사상구 사상로 282",
+  "hos_latitude": 35.17,
+  "hos_longitude": 128.9828,
+  "hos_number": "051-301-8275"
+ },
+ {
+  "hos_name": "의료법인환명의료재단 금강병원",
+  "hos_add": "경상남도 김해시 가락로 20",
+  "hos_latitude": 35.2284,
+  "hos_longitude": 128.8831,
+  "hos_number": "055-333-0005"
+ },
+ {
+  "hos_name": "의료법인희원 래봄병원",
+  "hos_add": "경상남도 김해시 분성로 202",
+  "hos_latitude": 35.2302,
+  "hos_longitude": 128.8691,
+  "hos_number": "055-817-7000"
+ },
+ {
+  "hos_name": "이레 아이병원",
+  "hos_add": "경상남도 양산시 물금읍 청운로 185 오즈시티 5f",
+  "hos_latitude": 35.3173,
+  "hos_longitude": 129.003,
+  "hos_number": "055-781-1175"
+ },
+ {
+  "hos_name": "이샘병원",
+  "hos_add": "부산광역시 부산진구 황령대로 12",
+  "hos_latitude": 35.1478,
+  "hos_longitude": 129.061,
+  "hos_number": "051-631-2110"
+ },
+ {
+  "hos_name": "일광아동병원",
+  "hos_add": "부산광역시 기장군 일광면 삼성리 828-2 청보리더스빌딩 6.7.8.9층",
+  "hos_latitude": 35.2659,
+  "hos_longitude": 129.2257,
+  "hos_number": "051-927-7582"
+ },
+ {
+  "hos_name": "자재병원",
+  "hos_add": "울산광역시 울주군 상북면 소야정길 216-39",
+  "hos_latitude": 35.6167,
+  "hos_longitude": 129.0552,
+  "hos_number": "052-255-8400"
+ },
+ {
+  "hos_name": "장림한서병원",
+  "hos_add": "부산광역시 사하구 다대로 315",
+  "hos_latitude": 35.0744,
+  "hos_longitude": 128.9769,
+  "hos_number": "051-262-3344"
+ },
+ {
+  "hos_name": "재단법인 베스티안재단 베스티안부산병원",
+  "hos_add": "부산광역시 북구 화명제3동 2270-4",
+  "hos_latitude": 35.2358,
+  "hos_longitude": 129.0086,
+  "hos_number": "051-332-7575"
+ },
+ {
+  "hos_name": "정관우리아동병원",
+  "hos_add": "부산광역시 기장군 정관읍 정관중앙로 56 3, 4, 5층",
+  "hos_latitude": 35.322,
+  "hos_longitude": 129.1796,
+  "hos_number": "051-727-7811"
+ },
+ {
+  "hos_name": "정근안과병원",
+  "hos_add": "부산광역시 부산진구 가야대로 767",
+  "hos_latitude": 35.1583,
+  "hos_longitude": 129.0555,
+  "hos_number": "051-668-8000"
+ },
+ {
+  "hos_name": "제니스병원",
+  "hos_add": "울산광역시 남구 달동 번영로 160",
+  "hos_latitude": 35.5398,
+  "hos_longitude": 129.3276,
+  "hos_number": "052-274-2009"
+ },
+ {
+  "hos_name": "제일병원",
+  "hos_add": "부산광역시 수영구 광안동 142-35",
+  "hos_latitude": 35.1611,
+  "hos_longitude": 129.1141,
+  "hos_number": "051-758-991"
+ },
+ {
+  "hos_name": "제일여성병원",
+  "hos_add": "부산광역시 해운대구 좌동로 66",
+  "hos_latitude": 35.1708,
+  "hos_longitude": 129.1731,
+  "hos_number": "051-743-7431"
+ },
+ {
+  "hos_name": "좋은날에 드라마여성병원",
+  "hos_add": "부산광역시 동래구 충렬대로 449",
+  "hos_latitude": 35.1963,
+  "hos_longitude": 129.1075,
+  "hos_number": "051-522-7575"
+ },
+ {
+  "hos_name": "좋은의사들안과병원",
+  "hos_add": "울산광역시 남구 삼산동 삼산로 213",
+  "hos_latitude": 35.5864,
+  "hos_longitude": 129.3153,
+  "hos_number": "052-276-3500"
+ },
+ {
+  "hos_name": "주성산 이진용맘병원",
+  "hos_add": "부산광역시 연제구 거제대로 295",
+  "hos_latitude": 35.1927,
+  "hos_longitude": 129.0782,
+  "hos_number": "051-868-6078"
+ },
+ {
+  "hos_name": "중앙메디컬병원",
+  "hos_add": "경상남도 거창군 거창읍 대동리 891",
+  "hos_latitude": 35.6875,
+  "hos_longitude": 129.9166,
+  "hos_number": "055-942-7575"
+ },
+ {
+  "hos_name": "중앙학문병원",
+  "hos_add": "울산광역시 남구 달동 591-6",
+  "hos_latitude": 35.5374,
+  "hos_longitude": 129.3248,
+  "hos_number": "052-257-6565"
+ },
+ {
+  "hos_name": "지온병원",
+  "hos_add": "부산광역시 금정구 장전동 686-10",
+  "hos_latitude": 35.2237,
+  "hos_longitude": 129.0856,
+  "hos_number": "051-714-5770"
+ },
+ {
+  "hos_name": "진영새싹병원",
+  "hos_add": "경상남도 김해시 진영읍 여래리 543-5",
+  "hos_latitude": 35.3069,
+  "hos_longitude": 128.7364,
+  "hos_number": "055-724-3119"
+ },
+ {
+  "hos_name": "진주미래여성병원",
+  "hos_add": "경상남도 진주시 진주대로 957",
+  "hos_latitude": 35.1856,
+  "hos_longitude": 128.075,
+  "hos_number": "055-760-000"
+ },
+ {
+  "hos_name": "진주복음병원",
+  "hos_add": "경상남도 진주시 진양호로 370",
+  "hos_latitude": 35.1857,
+  "hos_longitude": 128.0694,
+  "hos_number": "055-743-2580"
+ },
+ {
+  "hos_name": "진주본병원",
+  "hos_add": "경상남도 진주시 평거동 278-2",
+  "hos_latitude": 35.1728,
+  "hos_longitude": 128.0603,
+  "hos_number": "055-746-5111"
+ },
+ {
+  "hos_name": "진주세란병원",
+  "hos_add": "경상남도 진주시 진주대로 829",
+  "hos_latitude": 35.1747,
+  "hos_longitude": 128.093,
+  "hos_number": "055-760-7578"
+ },
+ {
+  "hos_name": "진해성모병원",
+  "hos_add": "경상남도 창원시 진해구 행암로 12 MS빌딩 5층",
+  "hos_latitude": 35.1308,
+  "hos_longitude": 128.7078,
+  "hos_number": "055-545-0500"
+ },
+ {
+  "hos_name": "참바른병원",
+  "hos_add": "울산광역시 남구 삼산로 247",
+  "hos_latitude": 35.5392,
+  "hos_longitude": 129.3341,
+  "hos_number": "1544-7544"
+ },
+ {
+  "hos_name": "참여성병원",
+  "hos_add": "경상남도 창원시 마산합포구 불종거리로 19",
+  "hos_latitude": 35.2063,
+  "hos_longitude": 128.5764,
+  "hos_number": "055-249-0600"
+ },
+ {
+  "hos_name": "창원더키움병원",
+  "hos_add": "경상남도 창원시 의창구 의창동 256",
+  "hos_latitude": 35.2597,
+  "hos_longitude": 128.6289,
+  "hos_number": "055-810-8000"
+ },
+ {
+  "hos_name": "창원중앙병원",
+  "hos_add": "경상남도 창원시 성산구 남양동 5",
+  "hos_latitude": 35.2142,
+  "hos_longitude": 128.7008,
+  "hos_number": "055-289-9111"
+ },
+ {
+  "hos_name": "척시원병원",
+  "hos_add": "부산광역시 동구 초량제1동 대영로 261",
+  "hos_latitude": 35.1121,
+  "hos_longitude": 129.0393,
+  "hos_number": "051-463-9119"
+ },
+ {
+  "hos_name": "청맥병원",
+  "hos_add": "부산광역시 부산진구 중앙대로 716-1",
+  "hos_latitude": 35.1569,
+  "hos_longitude": 129.0593,
+  "hos_number": "051-804-1119"
+ },
+ {
+  "hos_name": "퀸즈파크여성병원",
+  "hos_add": "부산광역시 해운대구 좌제2동 해운대로 794 엘리움빌딩 10층",
+  "hos_latitude": 35.169,
+  "hos_longitude": 129.1757,
+  "hos_number": "051-715-4100"
+ },
+ {
+  "hos_name": "큐병원",
+  "hos_add": "부산광역시 사하구 하단동 낙동남로 1401",
+  "hos_latitude": 35.1068,
+  "hos_longitude": 128.9649,
+  "hos_number": "051-207-4343"
+ },
+ {
+  "hos_name": "키즈웰소아청소년과병원",
+  "hos_add": "경상남도 창원시 마산회원구 양덕동 149-5",
+  "hos_latitude": 35.2335,
+  "hos_longitude": 128.5879,
+  "hos_number": "055-715-2500"
+ },
+ {
+  "hos_name": "태황의료재단한성병원",
+  "hos_add": "경상남도 창녕군 창녕읍 교리1길 2",
+  "hos_latitude": 35.5423,
+  "hos_longitude": 128.4934,
+  "hos_number": "055-530-5000"
+ },
+ {
+  "hos_name": "통영고려병원",
+  "hos_add": "경상남도 통영시 무전동 989-5",
+  "hos_latitude": 34.8581,
+  "hos_longitude": 128.4288,
+  "hos_number": "055-641-7582"
+ },
+ {
+  "hos_name": "통영서울병원",
+  "hos_add": "경상남도 통영시 광도면 죽림리 603-12",
+  "hos_latitude": 34.8702,
+  "hos_longitude": 128.4155,
+  "hos_number": "055-644-1777"
+ },
+ {
+  "hos_name": "통영적십자병원",
+  "hos_add": "경상남도 통영시 서호동 163-22",
+  "hos_latitude": 34.8426,
+  "hos_longitude": 128.42,
+  "hos_number": "055-644-8901"
+ },
+ {
+  "hos_name": "튼튼소아청소년과병원",
+  "hos_add": "경상남도 진주시 평거동 278-2",
+  "hos_latitude": 35.1727,
+  "hos_longitude": 128.0603,
+  "hos_number": "055-744-7552"
+ },
+ {
+  "hos_name": "파크병원",
+  "hos_add": "부산광역시 사하구 괴정동 까치고개로 79-1 파크병원",
+  "hos_latitude": 35.1054,
+  "hos_longitude": 129.01,
+  "hos_number": "051-201-8787"
+ },
+ {
+  "hos_name": "파크사이드재활의학병원",
+  "hos_add": "부산광역시 남구 대연제4동 731-1",
+  "hos_latitude": 35.1253,
+  "hos_longitude": 129.0971,
+  "hos_number": "051-629-8000"
+ },
+ {
+  "hos_name": "프라임병원",
+  "hos_add": "부산광역시 사하구 낙동남로 1410",
+  "hos_latitude": 35.1062,
+  "hos_longitude": 128.9658,
+  "hos_number": "051-202-7800"
+ },
+ {
+  "hos_name": "하나병원",
+  "hos_add": "부산광역시 사하구 다대로 311",
+  "hos_latitude": 35.0746,
+  "hos_longitude": 128.9769,
+  "hos_number": "051-266-2600"
+ },
+ {
+  "hos_name": "하나이비인후과병원",
+  "hos_add": "울산광역시 남구 삼산로 139",
+  "hos_latitude": 35.5367,
+  "hos_longitude": 129.3224,
+  "hos_number": "052-708-1111"
+ },
+ {
+  "hos_name": "하이본병원",
+  "hos_add": "울산광역시 남구 돋질로 228",
+  "hos_latitude": 35.5426,
+  "hos_longitude": 129.3302,
+  "hos_number": "052-701-6000"
+ },
+ {
+  "hos_name": "한나병원",
+  "hos_add": "부산광역시 수영구 황령대로481번길 7",
+  "hos_latitude": 35.1394,
+  "hos_longitude": 129.107,
+  "hos_number": "051-625-2300"
+ },
+ {
+  "hos_name": "한빛병원",
+  "hos_add": "부산광역시 부산진구 과정로 140",
+  "hos_latitude": 35.1871,
+  "hos_longitude": 129.1075,
+  "hos_number": "051-645-2400"
+ },
+ {
+  "hos_name": "한사랑내과병원",
+  "hos_add": "부산광역시 북구 만덕대로 38",
+  "hos_latitude": 35.2109,
+  "hos_longitude": 129.009,
+  "hos_number": "051-334-1001"
+ },
+ {
+  "hos_name": "한양류마디병원",
+  "hos_add": "부산광역시 연제구 과정로 272",
+  "hos_latitude": 35.1884,
+  "hos_longitude": 129.0975,
+  "hos_number": "051-752-1990"
+ },
+ {
+  "hos_name": "함양성심병원",
+  "hos_add": "경상남도 함양군 함양읍 고운로 70",
+  "hos_latitude": 35.5207,
+  "hos_longitude": 127.7292,
+  "hos_number": "055-963-4322"
+ },
+ {
+  "hos_name": "합천병원",
+  "hos_add": "경상남도 합천군 합천읍 합천리 412",
+  "hos_latitude": 35.568,
+  "hos_longitude": 128.1637,
+  "hos_number": "055-932-4900"
+ },
+ {
+  "hos_name": "항사랑병원",
+  "hos_add": "울산광역시 남구 번영로 92",
+  "hos_latitude": 35.534,
+  "hos_longitude": 129.3301,
+  "hos_number": "052-269-0975"
+ },
+ {
+  "hos_name": "항스퀘어 병원",
+  "hos_add": "부산광역시 사하구 장림동 다대로 251",
+  "hos_latitude": 35.0801,
+  "hos_longitude": 128.9777,
+  "hos_number": "051-715-4242"
+ },
+ {
+  "hos_name": "항플러스병원",
+  "hos_add": "부산광역시 사하구 하단동 낙동남로 1394",
+  "hos_latitude": 35.1061,
+  "hos_longitude": 128.964,
+  "hos_number": "051-207-6111"
+ },
+ {
+  "hos_name": "해군해양의료원",
+  "hos_add": "경상남도 창원시 진해구 자은동 417-3",
+  "hos_latitude": 35.1467,
+  "hos_longitude": 128.7131,
+  "hos_number": "055-907-5737"
+ },
+ {
+  "hos_name": "해운대나눔과행복병원",
+  "hos_add": "부산광역시 해운대구 좌동순환로 502 이룸타워 3층",
+  "hos_latitude": 35.1662,
+  "hos_longitude": 129.169,
+  "hos_number": "051-744-0123"
+ },
+ {
+  "hos_name": "해운대푸른바다어린이병원",
+  "hos_add": "부산광역시 해운대구 좌동순환로 505 센트럴 메디타워 12,13층",
+  "hos_latitude": 35.1658,
+  "hos_longitude": 129.1684,
+  "hos_number": "051-714-3501"
+ },
+ {
+  "hos_name": "햇살아동병원",
+  "hos_add": "울산광역시 울주군 범서읍 천상중앙길 88",
+  "hos_latitude": 35.563,
+  "hos_longitude": 129.2266,
+  "hos_number": "052-211-8448"
+ },
+ {
+  "hos_name": "행복한병원",
+  "hos_add": "부산광역시 부산진구 봉수로 18",
+  "hos_latitude": 35.15,
+  "hos_longitude": 129.07,
+  "hos_number": "051-757-5119"
+ },
+ {
+  "hos_name": "행복한어린이병원",
+  "hos_add": "부산광역시 강서구 명지국제1로 25 우진메디컬 8층",
+  "hos_latitude": 35.0915,
+  "hos_longitude": 128.9032,
+  "hos_number": "051-264-9500"
+ },
+ {
+  "hos_name": "허&리병원",
+  "hos_add": "경상남도 창원시 의창구 봉곡동 34-3",
+  "hos_latitude": 35.2441,
+  "hos_longitude": 128.6488,
+  "hos_number": "055-288-7577"
+ },
+ {
+  "hos_name": "홍익재활병원",
+  "hos_add": "경상남도 창원시 성산구 신촌로134번길 43",
+  "hos_latitude": 35.971,
+  "hos_longitude": 128.6251,
+  "hos_number": "055-286-1518"
+ },
+ {
+  "hos_name": "화명일신기독병원(재단법인 한.호기독교선교회)",
+  "hos_add": "부산광역시 북구 금곡대로 264",
+  "hos_latitude": 35.2322,
+  "hos_longitude": 129.0136,
+  "hos_number": "051-363-0331"
+ },
+ {
+  "hos_name": "화사랑병원",
+  "hos_add": "경상남도 창원시 의창구 용동 로83번안길 3",
+  "hos_latitude": 35.2391,
+  "hos_longitude": 128.7006,
+  "hos_number": "055-602-3119"
+ },
+ {
+  "hos_name": "화창한병원",
+  "hos_add": "부산광역시 금정구 중앙대로1685번길 12",
+  "hos_latitude": 35.2352,
+  "hos_longitude": 129.091,
+  "hos_number": "051-514-9119"
+ },
+ {
+  "hos_name": "효성시티병원",
+  "hos_add": "부산광역시 해운대구 해운대로 135",
+  "hos_latitude": 35.1854,
+  "hos_longitude": 129.1215,
+  "hos_number": "051-709-3000"
+ },
+ {
+  "hos_name": "휴병원",
+  "hos_add": "부산광역시 부산진구 가야대로 713",
+  "hos_latitude": 35.1611,
+  "hos_longitude": 129.0503,
+  "hos_number": "051-803-9000"
+ },
+ {
+  "hos_name": "희망병원",
+  "hos_add": "경상남도 창원시 진해구 용원동 1214-17",
+  "hos_latitude": 35.1006,
+  "hos_longitude": 128.8111,
+  "hos_number": "055-552-7582"
+ },
+ {
+  "hos_name": "희연병원",
+  "hos_add": "경상남도 창원시 성산구 반지동 78번지 희연빌딩 5-6층",
+  "hos_latitude": 35.2402,
+  "hos_longitude": 128.6626,
+  "hos_number": "055-270-2500"
+ },
+ {
+  "hos_name": "힘나는병원",
+  "hos_add": "경상남도 양산시 물금읍 범어리 2775-5",
+  "hos_latitude": 35.3175,
+  "hos_longitude": 129.01,
+  "hos_number": "055-785-3375"
+ },
+ {
+  "hos_name": "힘내라병원",
+  "hos_add": "부산광역시 동구 범일로 85",
+  "hos_latitude": 35.138,
+  "hos_longitude": 129.0589,
+  "hos_number": "051-711-9500"
+ }
+]
